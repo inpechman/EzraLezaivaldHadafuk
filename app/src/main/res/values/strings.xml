@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EzraLezaivaldHadafuk</string>
+    <string name="new_contact_btn_text">new contact</string>
+    <string name="show_contacts_btn_text">show all contacts</string>
+    <string name="edit_name_field_hint">enter name</string>
+    <string name="edit_birth_year_field_hint">enter birth year</string>
+    <string name="save_contact_btn_text">save</string>
+    <string name="go_to_field_text">0</string>
+    <string name="sum_of_rows_text">0</string>
+    <string name="go_to_field_btn_text">go</string>
+    <string name="all_contacts_rv_row_edit_btn_text">edit</string>
+</resources>
